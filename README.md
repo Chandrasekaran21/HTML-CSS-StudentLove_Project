@@ -5,5 +5,7 @@ Demo Link - https://chandrasekaran21.github.io/HTML-CSS-StudentLove_Project/
 Features
 
 Fully responsive layout
+
 Clean and minimal design
+
 Pure HTML & CSS
